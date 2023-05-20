@@ -1,0 +1,56 @@
+@media screen and (max-width: 767px){
+    .rewies-img{
+        display: block;
+        width: 80px;
+        margin: auto;
+    }
+}
+@media screen and (min-width: 768px){
+    .rewies-img{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-bottom: 24px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1599px){
+    .rewies-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 0;
+        color: #565656;
+        width: 474px;
+        margin: auto;
+    }
+}
+@media screen and (max-width: 767px){
+    .rewies-text{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        margin-top: 33px;
+        margin-bottom: 0;
+        color: #565656;
+    }
+}
+@media screen and (min-width: 1600px) {
+    .rewies-text{
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        color: #565656;
+        margin-top: 17;
+        margin-bottom: 0;
+    }
+}
+@media screen and (min-width: 1600px){
+    .rewies-img-mar{
+        margin-bottom: 41px;
+    }
+}

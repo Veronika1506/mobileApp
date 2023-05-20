@@ -1,0 +1,199 @@
+@media screen and (max-width: 767px) {
+    .footer-logo {
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 30px;
+        letter-spacing: 0.06em;
+        color: #ffffff;
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 33px;
+
+    }
+
+    .footer-logo-app {
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .logo-position {
+        display: flex;
+        justify-content: center;
+    }
+}
+@media screen and (min-width: 1600px){
+    .footer-logo{
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+        letter-spacing: 0.06em;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .footer-logo-app{
+        font-weight: 400;
+        font-style: italic;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1599px){
+    .footer-logo {
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 30px;
+        letter-spacing: 0.06em;
+        color: #ffffff;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .footer-logo-app {
+        font-weight: 400;
+        font-style: italic;
+    }
+}
+
+@media screen and (max-width: 1599px) {
+    .footer-title {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 23px;
+        letter-spacing: 0.03em;
+        text-align: center;
+        color: #ffffff;
+        margin-top: 0;
+        margin-bottom: 22px;
+    }
+
+}
+@media screen and (min-width: 1600px){
+    .footer-title{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 28px;
+        letter-spacing: 0.03em;
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 40px;
+    }
+}
+
+@media screen and (max-width: 1599px) {
+    .footer-contact-link {
+        color: #ffffff;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.03em;
+        display: block;
+        text-align: center;
+    }
+
+    .footer-contact {
+        list-style: none;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-left: 0;
+    }
+
+    .footer-contact-item {
+        margin-bottom: 12px;
+    }
+}
+@media screen and (max-width: 767px){
+    .footer-contact-mar{
+        margin-bottom: 33px;
+    }
+}
+
+
+@media screen and (max-width: 1599px) {
+    .footer-btn {
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+
+        border: 1px solid #ffffff;
+        border-radius: 4px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 38px;
+        padding-right: 37px;
+        
+       
+    }
+    .footer-btn-item{
+      margin-bottom: 56px;
+      margin-top: 12 px;
+    }
+    .footer-btn-2 {
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+
+        border: 1px solid #ffffff;
+        border-radius: 4px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-left: 44px;
+        padding-right: 44px;
+    }
+    .btn-position{
+        display: flex;
+        flex-direction: column;
+         align-items: center;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .footer-pos{
+        display: flex;
+        justify-content: space-around;
+    }
+}
+@media screen and (min-width: 1600px) {
+    .footer-contact{
+       list-style: none;
+       margin-top: 0;
+       margin-bottom: 0;
+       padding-left: 0;
+    }   
+   
+    .footer-contact-item{
+       margin-bottom: 20px;
+    }
+   
+    .footer-contact-link{
+       font-weight: 400;
+       font-size: 16px;
+       line-height: 18px;
+       letter-spacing: 0.03em;
+       text-align: center;
+       color: #ffffff;
+       display: block;
+    }
+   
+   }
+   @media screen and (min-width: 1600px){
+    .footer-btn,
+    .footer-btn-2{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 30px;
+        display: block;
+        width: 200px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border: 1px solid #ffffff;
+        border-radius: 4px;
+        text-align: center;
+    }
+    .footer-btn-item{
+        margin-bottom: 25px;
+
+    }
+}
